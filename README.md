@@ -4,6 +4,8 @@
 ![license](https://badgen.net/npm/license/@m5d215/ts-omit)
 ![dependents](https://badgen.net/npm/dependents/@m5d215/ts-omit)
 
+[![CircleCI](https://circleci.com/gh/m5d215/ts-omit.svg?style=svg)](https://circleci.com/gh/m5d215/ts-omit)
+
 Delete properties from type at compilation time.
 
 ```sh
