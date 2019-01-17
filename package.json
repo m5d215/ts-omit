@@ -1,6 +1,6 @@
 {
   "name": "@m5d215/ts-omit",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Delete properties from type at compilation time",
   "main": "",
   "repository": {
